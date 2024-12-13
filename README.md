@@ -6,8 +6,7 @@ This project focuses on analyzing Uber ride fares, including exploratory data an
 ## Exploratory data analysis (EDA)
 EDA revealed key insights, such as the strong relationship between trip distance and fare, and guided the removal of anomalies (e.g., negative or excessively high fares).
 
-*Distribution of fare amounts highlighting outliers*
-![Fare Distribution](exports/EDA/Distribution_of_fare_amount.png)
+![Fare Distribution](exports/EDA/Distribution%20of%20fare%20amount.png)
 
 ## Data processing
 Data preparation steps included:
