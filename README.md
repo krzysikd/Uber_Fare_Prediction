@@ -1,4 +1,5 @@
 # Uber ride fare prediction
+For a more detailed explanation of the project and the code, please refer to the [Jupyter Notebook](./Uber_Fares_Prediction.ipynb) or the [PDF report](./Uber_Fares_Prediction.pdf).
 
 ## Problem description
 This project focuses on analyzing Uber ride fares, including exploratory data analysis (EDA) with hypothesis testing, and building a model to predict future ride costs. The data is sourced from Kaggle: [Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset/data).
